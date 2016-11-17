@@ -46,7 +46,7 @@ u = ( A + lam*initImg )/( 1 + lam );
 
 disp('No. of iterations')
 i = 1 
-err_mat = zeros(1, 1000); % Assuming that the process will converge after 1000 iterations
+err_mat = zeros(1, 1000); % Assuming that the process will converge within 1000 iterations
 
 while 1
     I_Edge = log( wlsFilter( u, lamWls, alphaWls ) );
