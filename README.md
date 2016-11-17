@@ -1,5 +1,7 @@
 # ToneMapping
 
+As the title says, this converts a HDR image into LDR image. 
+
 Please site this work if you are using this code. 
 'Naman Bansal and Shanmuganathan Raman, "Regularized Tone Mapping Using Edge Preserving Filters", (Oral) In 21st National Conference on Communications (NCC), IIT Bombay, Feb. 27 - Mar. 1, 2015.'
 
